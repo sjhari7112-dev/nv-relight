@@ -1,0 +1,4 @@
+# Minimum light every node emits (0 = off, 14 = full bright). Light reaches about (level - 1) nodes from any surface.
+nv_relight.level (Ambient light level) int 8 0 14
+# Make game logic (mob spawning checks) ignore light that comes only from the ambient glow. Screen stays bright.
+nv_relight.spawn_safe (Keep mob spawning working) bool true
