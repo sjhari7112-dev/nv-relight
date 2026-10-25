@@ -22,6 +22,14 @@ Light spreads from every surface and loses 1 level per node, so the glow reaches
 about `level - 1` nodes into open space. Big caverns need higher values.
 Changing the level automatically triggers a fresh relight as you walk around.
 
+## Screenshots
+
+### Before NV Relight
+![Before NV Relight](screenshots/before.png)
+
+### After NV Relight
+![After NV Relight](screenshots/after.png)
+
 ## Spawn-safe light
 
 `spawn_safe` replaces `core.get_artificial_light` with a wrapper: any value up to
