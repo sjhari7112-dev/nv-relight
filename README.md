@@ -83,6 +83,20 @@ The idea of raising node `light_source` for ambient light comes from
 by ketwaroo (GPL-3.0-or-later). NV Relight is a separate rewrite that adds
 automatic relighting and diagnostics.
 
+
+## Installation
+
+1. Download the latest release ZIP.
+2. Extract the `nv_relight` folder.
+3. Place the folder in the appropriate Luanti mods directory.
+4. Enable NV Relight for your world.
+5. Configure the mod settings if needed.
+
+## Compatibility
+
+- Tested with: Mineclonia on Luanti 5.17.0
+- Other games and versions: Not yet verified
+
 ## License
 
 Copyright (C) 2026 Hari Prasadh
